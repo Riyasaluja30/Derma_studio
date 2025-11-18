@@ -1,5 +1,43 @@
-Brand,ProductName,Ingredients,SkinType,Score
-BrandA,HydraBoost Gel,Water;Hyaluronic Acid;Glycerin,Dry,9
-BrandB,OilControl Serum,Niacinamide;Zinc PCA,Oily,8
-BrandC,CalmCare Cream,Aloe Vera;Centella,Sensitive,8
-BrandD,RenewGlow Essence,Retinol;Peptides,Combination,9
+product_id	brand	product_name	price_inr	skin_tags	concern_tags	climate_tags	key_ingredients	ingredient_percentages	description	stock	image_url
+P001	Bioderma	Sensibio H2O Micellar Water (250ml)	719	sensitive,normal	makeup_removal,redness	all	micelles;cucumber extract;xylitol	;	Gentle micellar water	100	
+P002	Bioderma	Sensibio Lait Cleansing Milk (200ml)	1634	dry,sensitive	dryness,barrier	dry,temperate	lipid complex;glyceryl esters	;	Creamy hydrating milk cleanser	50	
+P003	Bioderma	Atoderm Intensive Gel Moussant (200ml)	584	very_dry,atopic	dryness,itching	dry	niacinamide;gentle surfactants	;	Gentle gel for dry/atopic skin	80	
+P004	Aminu	Do-It-All Cream Cleanser (100ml)	1750	dry,normal,combination,sensitive	barrier,hydration	temperate,dry	sugar complex;macadamia oil;botanicals	;	Cream cleanser for barrier support	40	
+P005	Cetaphil	Gentle Skin Cleanser (125ml)	355	dry,normal,sensitive	redness,dryness	dry	glycerin;mild surfactants	;	Classic gentle non-foaming cleanser	120	
+P006	Minimalist	2% Salicylic + LHA Cleanser (100ml)	349	oily,acne_prone	acne,comedones	humid	salicylic acid 2%;LHA	2%;	Exfoliating cleanser for oily skin	90	
+P007	COSRX	Advanced Snail 96 Mucin (100ml)	1250	all	repair,hydration	all	snail mucin 96%	96%	Soothing repair essence/serum	70	
+P008	Aminu	Copper Peptide Serum (10ml)	1840	all,aging	repair,elasticity	all	copper peptide;multi-HA;amino acids	;	Repair & peptide serum	30	
+P009	The Ordinary	Niacinamide 10% + Zinc 1% (30ml)	700	oily,combination	oil_control,pores	humid	niacinamide 10%;zinc 1%	10%;1%	Oil control + pore refining	150	
+P010	Paulas Choice	2% BHA Liquid Exfoliant (118ml)	2200	oily,acne_prone	blackheads,texture	humid	salicylic acid 2%	2%	Classic BHA exfoliant	60	
+P011	Minimalist	3% PHA Toner (150ml)	379	sensitive,all	texture,pores	all	PHA 3%	3%	Gentle PHA toner	90	
+P012	Skin1004	Madagascar Centella Toning Toner (210ml)	1150	sensitive,all	redness,soothing	hot,humid	centella asiatica 84%;PHA;HA	84%;3%;	Centella-rich calming toner	70	
+P013	Avene	Thermal Spring Water (150ml)	1350	all	irritation,soothing	all	avene thermal water	;	Soothing thermal water mist	200	
+P014	Bioderma	Sebium Pore Refiner (30ml)	1364	oily,combination	pores,sebum	humid	salicylic acid;agaric acid;ginkgo	2%;;	Pore-refining serum	85	
+P015	Minimalist	AHA BHA 10% (30ml)	599	oily,combination	texture,blackheads	humid	AHA 8%;BHA 2%	8%;2%	Chemical exfoliant (use weekly)	100	
+P016	The Ordinary	AHA 30% + BHA 2% Peeling Solution (30ml)	1200	oily,thick_skin	texture,scars	temperate	AHA 30%;BHA 2%	30%;2%	Weekly peel — strong	40	
+P017	CeraVe	Hydrating Cleanser (236ml)	1499	dry,normal,sensitive	dehydration,barrier	dry	ceramides;hyaluronic acid	;	Creamy hydrating cleanser	110	
+P018	CeraVe	Foaming Facial Cleanser (236ml)	1499	normal,oily	oil_control	humid	ceramides;niacinamide	;	Foaming cleanser with ceramides	95	
+P019	COSRX	Triple Hyaluronic Ampoule (30ml)	1250	dry,dehydrated	hydration,plump	all	multi-weight HA	;	Deep hydration ampoule	80	
+P020	Aminu	Skin Perfecting Serum (30ml)	2450	combo,oily,blemish_prone	pores,texture,PIH	humid	niacinamide;azeloyl diglycinate;HA	;	Corrective serum for blemish-prone skin	50	
+P021	Bioderma	Pigmentbio Foaming Cream (200ml)	2499	normal,combo	pigmentation,dullness	temperate	citric acid;azelaic derivative	;	Brightening foaming cleanser	60	
+P022	Aminu	Correcting Concentrate (30ml)	3600	all	pigmentation,brightening	all	plant AHAs;amino acids;brighteners	;	Corrective concentrate for PIH	40	
+P023	Aminu	Clarifying Concentrate (30ml)	1950	oily,acne_prone	blemishes,sebum	humid	antimicrobial botanicals;amino acids	;	Clarifying anti-blemish concentrate	45	
+P024	La Roche-Posay	Toleriane Double Repair (40ml)	999	all	barrier,redness	all	niacinamide;ceramides;glycerin	;	Daily barrier-repair moisturizer	130	
+P025	La Roche-Posay	Cicaplast Baume B5+ (40ml)	699	all	repair,post-procedure	all	panthenol;madecassoside	;	Multi-purpose repairing balm	120	
+P026	Neutrogena	Hydro Boost Water Gel (50ml)	499	normal,oily	dehydration	humid	hyaluronic acid	;	Lightweight hyaluronic gel moisturizer	200	
+P027	Re'equil	Ceramide + HA Cream (30ml)	799	dry,combo	barrier,hydration	dry	ceramides;HA	;	Ceramide-rich moisturizer	110	
+P028	Sesderma	Azelac RU Gel Cream (30ml)	2200	all	pigmentation,melasma	all	azelaic acid;tranexamic;liposomes	;	Liposomal azelaic for pigmentation	60	
+P029	Sesderma	Retises 0.5 Cream (30ml)	1800	retinoid_tolerant	anti-ageing,texture	night	retinol/retinal	;	Retinoid cream for resurfacing	50	
+P030	Dr. Althea	345 Relief Cream (30ml)	1200	sensitive	soothing,redness	all	calming peptides;panthenol	;	Relief cream for sensitivity	70	
+P031	Sugandha	Calendula Oat Cream (50ml)	599	dry,sensitive	barrier,soothing	dry	calendula;oat;glycerin	;	Soothing calendula oat moisturizer	80	
+P032	Sugandha	Squalane Ceramide Cream (50ml)	699	normal,dry	barrier,hydration	all	squalane;ceramides	;	Light ceramide + squalane moisturizer	90	
+P033	Heliocare	360° Water Gel SPF50 (50ml)	2499	all	sun_protection	all	fernblock;Uvinul;Octocrylene	;	UV protection — antioxidant water gel	200	
+P034	ISDIN	Fotoprotector Fusion Water SPF50 (50ml)	1999	all	sun_protection	all	UVA/UVB filters;antioxidants	;	Lightweight sunscreen fusion water	180	
+P035	EltaMD	UV Clear SPF46 (50ml)	3499	acne_prone,rosacea	sun_protection,calming	all	zinc oxide;niacinamide	;	Derm-favorite for acne-prone skin	120	
+P036	La Roche-Posay	Anthelios UVMune 400 SPF50+ (50ml)	2499	all	sun_protection	all	Mexoryl;broad filters	;	High-protection sunscreen	160	
+P037	Beauty of Joseon	Relief Sun Rice + Probiotics SPF50 (50ml)	999	all	sun_protection	all	physical+chemical filters;rice extract	;	Popular lightweight sunscreen	150	
+P038	Cetaphil	Sun SPF50+ Light Gel (50ml)	799	all	sun_protection	all	chemical filters;glycerin	;	Light gel sunscreen for sensitive skin	140	
+P039	Minimalist	Sunscreen SPF50 PA++++ (50ml)	649	all	sun_protection	all	UVA/UVB filters;niacinamide	;	Budget cosmeceutical sunscreen	200	
+P040	Fixderma	Shadow Gel SPF50 (50ml)	549	oily,combo	sun_protection	humid	chemical filters	;	Matte sunscreen gel	120	
+P041	Re'equil	Ultra Matte Sunscreen SPF50 (50ml)	699	oily,combo	sun_protection,matte	humid	silica;chemical filters	;	Ultra-matte sunscreen for oily skin	160	
+P042	La Shield	Físico SPF50 Mineral Gel (50ml)	899	sensitive,rosacea	sun_protection,mineral	all	zinc oxide;titanium dioxide	;	Mineral sunscreen gel	110	
