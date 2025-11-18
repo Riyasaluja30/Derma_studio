@@ -4,8 +4,6 @@ from PIL import Image
 import numpy as np
 import io
 
-PASSWORD="derma2025"
-st.set_page_config(page_title="Derma Studio AI",layout="wide")
 
 pw=st.text_input("Enter password:",type="password")
 if pw!=PASSWORD:
