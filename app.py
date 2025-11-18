@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 import io
 
-
+PASSWORD = "derma2025"
 pw=st.text_input("Enter password:",type="password")
 if pw!=PASSWORD:
     st.stop()
