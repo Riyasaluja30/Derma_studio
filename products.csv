@@ -1,43 +1,104 @@
-product_id	brand	product_name	price_inr	skin_tags	concern_tags	climate_tags	key_ingredients	ingredient_percentages	description	stock	image_url
-P001	Bioderma	Sensibio H2O Micellar Water (250ml)	719	sensitive,normal	makeup_removal,redness	all	micelles;cucumber extract;xylitol	;	Gentle micellar water	100	
-P002	Bioderma	Sensibio Lait Cleansing Milk (200ml)	1634	dry,sensitive	dryness,barrier	dry,temperate	lipid complex;glyceryl esters	;	Creamy hydrating milk cleanser	50	
-P003	Bioderma	Atoderm Intensive Gel Moussant (200ml)	584	very_dry,atopic	dryness,itching	dry	niacinamide;gentle surfactants	;	Gentle gel for dry/atopic skin	80	
-P004	Aminu	Do-It-All Cream Cleanser (100ml)	1750	dry,normal,combination,sensitive	barrier,hydration	temperate,dry	sugar complex;macadamia oil;botanicals	;	Cream cleanser for barrier support	40	
-P005	Cetaphil	Gentle Skin Cleanser (125ml)	355	dry,normal,sensitive	redness,dryness	dry	glycerin;mild surfactants	;	Classic gentle non-foaming cleanser	120	
-P006	Minimalist	2% Salicylic + LHA Cleanser (100ml)	349	oily,acne_prone	acne,comedones	humid	salicylic acid 2%;LHA	2%;	Exfoliating cleanser for oily skin	90	
-P007	COSRX	Advanced Snail 96 Mucin (100ml)	1250	all	repair,hydration	all	snail mucin 96%	96%	Soothing repair essence/serum	70	
-P008	Aminu	Copper Peptide Serum (10ml)	1840	all,aging	repair,elasticity	all	copper peptide;multi-HA;amino acids	;	Repair & peptide serum	30	
-P009	The Ordinary	Niacinamide 10% + Zinc 1% (30ml)	700	oily,combination	oil_control,pores	humid	niacinamide 10%;zinc 1%	10%;1%	Oil control + pore refining	150	
-P010	Paulas Choice	2% BHA Liquid Exfoliant (118ml)	2200	oily,acne_prone	blackheads,texture	humid	salicylic acid 2%	2%	Classic BHA exfoliant	60	
-P011	Minimalist	3% PHA Toner (150ml)	379	sensitive,all	texture,pores	all	PHA 3%	3%	Gentle PHA toner	90	
-P012	Skin1004	Madagascar Centella Toning Toner (210ml)	1150	sensitive,all	redness,soothing	hot,humid	centella asiatica 84%;PHA;HA	84%;3%;	Centella-rich calming toner	70	
-P013	Avene	Thermal Spring Water (150ml)	1350	all	irritation,soothing	all	avene thermal water	;	Soothing thermal water mist	200	
-P014	Bioderma	Sebium Pore Refiner (30ml)	1364	oily,combination	pores,sebum	humid	salicylic acid;agaric acid;ginkgo	2%;;	Pore-refining serum	85	
-P015	Minimalist	AHA BHA 10% (30ml)	599	oily,combination	texture,blackheads	humid	AHA 8%;BHA 2%	8%;2%	Chemical exfoliant (use weekly)	100	
-P016	The Ordinary	AHA 30% + BHA 2% Peeling Solution (30ml)	1200	oily,thick_skin	texture,scars	temperate	AHA 30%;BHA 2%	30%;2%	Weekly peel — strong	40	
-P017	CeraVe	Hydrating Cleanser (236ml)	1499	dry,normal,sensitive	dehydration,barrier	dry	ceramides;hyaluronic acid	;	Creamy hydrating cleanser	110	
-P018	CeraVe	Foaming Facial Cleanser (236ml)	1499	normal,oily	oil_control	humid	ceramides;niacinamide	;	Foaming cleanser with ceramides	95	
-P019	COSRX	Triple Hyaluronic Ampoule (30ml)	1250	dry,dehydrated	hydration,plump	all	multi-weight HA	;	Deep hydration ampoule	80	
-P020	Aminu	Skin Perfecting Serum (30ml)	2450	combo,oily,blemish_prone	pores,texture,PIH	humid	niacinamide;azeloyl diglycinate;HA	;	Corrective serum for blemish-prone skin	50	
-P021	Bioderma	Pigmentbio Foaming Cream (200ml)	2499	normal,combo	pigmentation,dullness	temperate	citric acid;azelaic derivative	;	Brightening foaming cleanser	60	
-P022	Aminu	Correcting Concentrate (30ml)	3600	all	pigmentation,brightening	all	plant AHAs;amino acids;brighteners	;	Corrective concentrate for PIH	40	
-P023	Aminu	Clarifying Concentrate (30ml)	1950	oily,acne_prone	blemishes,sebum	humid	antimicrobial botanicals;amino acids	;	Clarifying anti-blemish concentrate	45	
-P024	La Roche-Posay	Toleriane Double Repair (40ml)	999	all	barrier,redness	all	niacinamide;ceramides;glycerin	;	Daily barrier-repair moisturizer	130	
-P025	La Roche-Posay	Cicaplast Baume B5+ (40ml)	699	all	repair,post-procedure	all	panthenol;madecassoside	;	Multi-purpose repairing balm	120	
-P026	Neutrogena	Hydro Boost Water Gel (50ml)	499	normal,oily	dehydration	humid	hyaluronic acid	;	Lightweight hyaluronic gel moisturizer	200	
-P027	Re'equil	Ceramide + HA Cream (30ml)	799	dry,combo	barrier,hydration	dry	ceramides;HA	;	Ceramide-rich moisturizer	110	
-P028	Sesderma	Azelac RU Gel Cream (30ml)	2200	all	pigmentation,melasma	all	azelaic acid;tranexamic;liposomes	;	Liposomal azelaic for pigmentation	60	
-P029	Sesderma	Retises 0.5 Cream (30ml)	1800	retinoid_tolerant	anti-ageing,texture	night	retinol/retinal	;	Retinoid cream for resurfacing	50	
-P030	Dr. Althea	345 Relief Cream (30ml)	1200	sensitive	soothing,redness	all	calming peptides;panthenol	;	Relief cream for sensitivity	70	
-P031	Sugandha	Calendula Oat Cream (50ml)	599	dry,sensitive	barrier,soothing	dry	calendula;oat;glycerin	;	Soothing calendula oat moisturizer	80	
-P032	Sugandha	Squalane Ceramide Cream (50ml)	699	normal,dry	barrier,hydration	all	squalane;ceramides	;	Light ceramide + squalane moisturizer	90	
-P033	Heliocare	360° Water Gel SPF50 (50ml)	2499	all	sun_protection	all	fernblock;Uvinul;Octocrylene	;	UV protection — antioxidant water gel	200	
-P034	ISDIN	Fotoprotector Fusion Water SPF50 (50ml)	1999	all	sun_protection	all	UVA/UVB filters;antioxidants	;	Lightweight sunscreen fusion water	180	
-P035	EltaMD	UV Clear SPF46 (50ml)	3499	acne_prone,rosacea	sun_protection,calming	all	zinc oxide;niacinamide	;	Derm-favorite for acne-prone skin	120	
-P036	La Roche-Posay	Anthelios UVMune 400 SPF50+ (50ml)	2499	all	sun_protection	all	Mexoryl;broad filters	;	High-protection sunscreen	160	
-P037	Beauty of Joseon	Relief Sun Rice + Probiotics SPF50 (50ml)	999	all	sun_protection	all	physical+chemical filters;rice extract	;	Popular lightweight sunscreen	150	
-P038	Cetaphil	Sun SPF50+ Light Gel (50ml)	799	all	sun_protection	all	chemical filters;glycerin	;	Light gel sunscreen for sensitive skin	140	
-P039	Minimalist	Sunscreen SPF50 PA++++ (50ml)	649	all	sun_protection	all	UVA/UVB filters;niacinamide	;	Budget cosmeceutical sunscreen	200	
-P040	Fixderma	Shadow Gel SPF50 (50ml)	549	oily,combo	sun_protection	humid	chemical filters	;	Matte sunscreen gel	120	
-P041	Re'equil	Ultra Matte Sunscreen SPF50 (50ml)	699	oily,combo	sun_protection,matte	humid	silica;chemical filters	;	Ultra-matte sunscreen for oily skin	160	
-P042	La Shield	Físico SPF50 Mineral Gel (50ml)	899	sensitive,rosacea	sun_protection,mineral	all	zinc oxide;titanium dioxide	;	Mineral sunscreen gel	110	
+id,brand,product_name,category
+M001,Bioderma,Sensibio H2O Micellar Water,Micellar
+M002,Bioderma,Sensibio Lait,Micellar
+
+C001,Bioderma,Atoderm Intensive Gel Moussant,Cleanser
+C002,Aminu,Cream Cleanser,Cleanser
+C003,Aminu,Melting Balm,Cleanser
+C004,Bioderma,Pigmentbio Foaming Cream,Cleanser
+C005,Bioderma,Sensibio Gel Moussant,Cleanser
+C006,Suganda,Squalane Cleansing Oil,Cleanser
+C007,Bioderma,Sebium Gel Moussant,Cleanser
+C008,Cetaphil,Gentle Skin Cleanser,Cleanser
+C009,Cetaphil,Oily Skin Cleanser,Cleanser
+C010,CeraVe,Foaming Cleanser,Cleanser
+C011,CeraVe,SA Smoothing Cleanser,Cleanser
+C012,CeraVe,Hydrating Facial Cleanser,Cleanser
+C013,Minimalist,Salicylic + LHA Cleanser,Cleanser
+
+MS001,One Thing,Centella Asiatica Extract,Mist
+MS002,One Thing,Hyaluronic Acid Complex,Mist
+MS003,One Thing,Niacinamide 10% Concentrate,Mist
+
+T001,Paula's Choice,Skin Balancing Pore Reducing Toner,Toner
+T002,The Ordinary,Glycolic Acid 7% Toning Solution,Toner
+T003,SkinCeuticals,Blemish + Age Defense Toner,Toner
+T004,Minimalist,PHA Face Toner,Toner
+T005,Skin1004,Madagascar Centella Toning Toner,Toner
+T006,Dermatouch,Niacinamide Brightening Toner,Toner
+T007,Dermalogica,Multi-Active Toner,Toner
+T008,Tony Moly,Wonder Ceramide Mochi Toner,Toner
+T009,Avene,Thermal Spring Toner,Toner
+
+E001,Bioderma,Sebium Night Peel,Exfoliator
+E002,Gunam,Daily Liquid Exfoliant,Exfoliator
+E003,Bioderma,Pigmentbio Foaming Cream,Exfoliator
+E004,Paula's Choice,2% BHA Liquid Exfoliant,Exfoliator
+E005,SkinCeuticals,Blemish + Age Defense Exfoliator,Exfoliator
+E006,The Ordinary,AHA 30% + BHA 2% Peeling Solution,Exfoliator
+E007,The Ordinary,Lactic Acid 10% + HA,Exfoliator
+E008,Formula RX,6% AHA + BHA Exfoliator,Exfoliator
+E009,COSRX,AHA BHA PHA Exfoliator,Exfoliator
+E010,Minimalist,10% AHA + BHA Exfoliator,Exfoliator
+
+S001,Suganda,2% Alpha Arbutin Serum,Serum
+S002,Suganda,Advanced Pigmentation Serum,Serum
+S003,COSRX,Advanced Snail 96 Mucin,Serum
+S004,COSRX,Centella Aqua Soothing Ampoule,Serum
+S005,Aminu,Copper Peptide Serum,Serum
+S006,Aminu,Correcting Concentrate Serum,Serum
+S007,One Thing,Green Tea Serum,Serum
+S008,Sesderma,Hydraderm Hyal Serum,Serum
+S009,Longivity,Anti-Ageing Serum,Serum
+S010,Bioderma,Sebium Pore Refiner,Serum
+S011,Aminu,Regenerating Serum,Serum
+S012,Aminu,Skin Perfecting Serum,Serum
+S013,COSRX,Triple Hyaluronic Moisture Ampoule,Serum
+S014,The Ordinary,Niacinamide 10% + Zinc 1%,Serum
+S015,CeraVe,Resurfacing Retinol Serum,Serum
+S016,Cetaphil,Bright Healthy Radiance Perfecting Serum,Serum
+S017,Nevlon,Basic Pigmentation Serum,Serum
+S018,Formula RX,Gentle Retinol Serum,Serum
+S019,Derma Approved,Multi-Active Serum,Serum
+
+MO001,COSRX,Advanced Snail 92 All-in-One Cream,Moisturizer
+MO002,Aminu,Bio-Retinol Cream,Moisturizer
+MO003,Sesderma,C-Vit Gel Cream,Moisturizer
+MO004,Suganda,Calendula Oat Cream,Moisturizer
+MO005,One Thing,Centella Soothing Cream,Moisturizer
+MO006,Bioderma,Cicabio Arnica Cream,Moisturizer
+MO007,Sesderma,Hydraderm Hyal Cream,Moisturizer
+MO008,Aminu,Hydrating Cream,Moisturizer
+MO009,Aminu,Night Repair Cream,Moisturizer
+MO010,Sesderma,Azelaic RU Liposomal Cream,Moisturizer
+MO011,Bioderma,Sebium Global,Moisturizer
+MO012,Bioderma,Sebium Hydra,Moisturizer
+MO013,Bioderma,Sensibio Forte,Moisturizer
+MO014,Aminu,Soothing Cream,Moisturizer
+MO015,Suganda,Squalane Ceramide Cream,Moisturizer
+MO016,COSRX,Retinol 0.1 Cream,Moisturizer
+MO017,COSRX,Retinol 0.3 Cream,Moisturizer
+MO018,Gunam,Balance Face Cream,Moisturizer
+MO019,La Roche-Posay,Toleriane Double Repair Moisturizer,Moisturizer
+MO020,La Roche-Posay,Cicaplast Baume B5+,Moisturizer
+MO021,La Roche-Posay,Effaclar Duo(+),Moisturizer
+MO022,Requil,Ceramide + Hyaluronic Acid Cream,Moisturizer
+MO023,Dr. Jart+,345 Relief Cream,Moisturizer
+MO024,Minimalist,0.3% Ceramide Moisturizer,Moisturizer
+MO025,Neutrogena,Hydro Boost Water Gel,Moisturizer
+
+SS001,Heliocare,360 Water Gel SPF 50,Sunscreen
+SS002,ISDIN,Photo Protector Fusion Water SPF 50,Sunscreen
+SS003,Bioderma,Pigmentbio Daily Care SPF,Sunscreen
+SS004,Bioderma,Hydrabio Gel Cream SPF,Sunscreen
+SS005,Beauty of Joseon,Relief Sun SPF 50,Sunscreen
+SS006,ISDIN,Fusion Gel Cream SPF 50,Sunscreen
+SS007,EltaMD,UV Clear SPF 46,Sunscreen
+SS008,La Roche-Posay,Anthelios UV Mune 400,Sunscreen
+SS009,DermaCo,1% Hyaluronic Aqua Gel SPF,Sunscreen
+SS010,Bioderma,Photoderm SPF 50+,Sunscreen
+SS011,Cetaphil,Sun SPF 50+ Light Gel,Sunscreen
+SS012,Minimalist,Sunscreen SPF 50 PA++++,Sunscreen
+SS013,FIXDERMA,Shadow Gel SPF 50,Sunscreen
+SS014,Requil,Ultramatt Dry Touch SPF 50,Sunscreen
+SS015,Lychee,L'Arche Shield SPF 50 Mineral Gel,Sunscreen
