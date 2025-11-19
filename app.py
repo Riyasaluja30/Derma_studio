@@ -91,7 +91,7 @@ st.sidebar.title("Derma Studio")
 
 def go(page):
     st.session_state.forced_page = page
-    st.experimental_rerun()
+    st.rerun()
 
 pages = [
     "Home","Consultation","Products & Budget",
